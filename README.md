@@ -8,4 +8,4 @@ The app consumes an advice generator API and displays it on the frontend using *
 
 ![](./image.png)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click here](https://advice-generator-app-pawan.vercel.app)
