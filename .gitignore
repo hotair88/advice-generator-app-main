@@ -1,0 +1,50 @@
+# Avoid accidental upload of the Sketch and Figma design files
+
+#####################################################
+
+## Please do not remove lines 5 and 6 - thanks! 🙂
+
+#####################################################
+_.sketch
+_.fig
+
+# Avoid accidental XD upload if you convert the design file
+
+###############################################
+
+## Please do not remove line 12 - thanks! 🙂
+
+###############################################
+\*.xd
+
+# Avoid your project being littered with annoying .DS_Store files!
+
+.DS_Store
+.prettierignore
+.cache/
+
+# Distribution directory
+
+dist/
+
+# Node modules
+
+node_modules/
+
+# Log files
+
+\*.log
+
+# Cache files
+
+.cache/
+.parcel-cache/
+
+# Environment variable files
+
+.env
+.env.\*
+
+# Editor directories and files
+
+.vscode/
