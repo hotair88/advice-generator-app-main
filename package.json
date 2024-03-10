@@ -2,7 +2,7 @@
   "name": "advice-generator-app-main",
   "version": "1.0.0",
   "description": "![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)",
-  "main": "./src/App.js",
+  "type":"module",
   "scripts": {
     "test": "jest",
     "start": "parcel index.html",
